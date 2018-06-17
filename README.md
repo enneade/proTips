@@ -116,7 +116,8 @@ Il est courant d'utiliser les deux formes url() et local() afin de pouvoir utili
 
 La règle @font-face peut être utilisée au niveau global d'une feuille de style et également au sein d'un groupe lié à une règle @ conditionnelle.
 
-* Préséparation
+* Préparation
+
 Dans un premier temps, il faut préparer notre font, dans tous les formats nécessaires.
 Les trois formats principaux (les plus couramment utilisés sur le web) sont les suivants : **SVG** (Scalable Vector Graphics), **TTF** (True Type Font) et **EOT** (Embedded Open Type).
 Pour une police, il peut y avoir plusieurs variations : Gras, Italique, light, etc.
